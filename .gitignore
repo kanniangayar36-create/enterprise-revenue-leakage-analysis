@@ -1,0 +1,9 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Database files
+*.db
+
+# Python cache
+__pycache__/
+
